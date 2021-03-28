@@ -7,6 +7,22 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=SSLRI.SSLRI)
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- credits for gif https://giphy.com/izmiragency -->
+
+<img align="right" height="200" width="300" src="dev.gif">
+
+### 🤔 About
+-  **Working :** HTML - CSS :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :** He/Him :innocent: 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 My [**Github**](https://github.com/sslri/) profile potrays my journey from writing my first ***Hello world*** program in my college to the first **HTML** page to the first **Calculator App** running on the emulator to the first **Machine Learning** model I trained on my system. It has been a journey of consecutive efforts and I look forward to more *open source* projects now. Apart from [Github](https://github.com/sslri/) ask for a **FIFA** game anytime. Connect with me on [**instagram**](https://www.instagram.com/sslri/). Make pull requests and I will be happy to merge them. Also :star: if you like any :hugs: 
 
 
