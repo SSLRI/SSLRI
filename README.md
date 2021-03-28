@@ -12,7 +12,6 @@
 
 <img align="right" height="200" width="300" src="dev.gif">
 
-### 🤔 About
 -  **Working :** HTML - CSS :computer: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
