@@ -4,7 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sslri)](https://www.instagram.com/sslri)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/saeeddsalari)](https://www.facebook.com/saeeddsalari)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sslri/)](https://www.linkedin.com/in/sslri/)
-![](https://visitor-badge.glitch.me/badge?page_id=SSLRI.SSLRI)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
