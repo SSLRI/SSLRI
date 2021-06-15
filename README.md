@@ -12,7 +12,7 @@
 <img align="right" height="200" width="300" src="dev.gif">
 
 
--  **Working :** Security Consultant :computer: | Cloud :cloud: 
+-  **Working :** 🅦🅔🅑 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣  :computer: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
