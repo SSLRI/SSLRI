@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cyber Waving Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3647,100:00f7ff&height=200&section=header&text=Saeed%20Salari%20(SSLRI)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26%20CEO%20of%20Iran%20YouSec%20%7C%20Cybersecurity%20%26%20Tech%20Explorer&descAlignY=58&descSize=16" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3647,100:00f7ff&height=200&section=header&text=Saeed%20Salari%20(SSLRI)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26amp%3B%20CEO%20of%20Iran%20YouSec%20%7C%20Cybersecurity%20%26amp%3B%20Tech%20Explorer&descAlignY=58&descSize=16" alt="Header Banner" />
 
   <!-- Terminal Typing SVG -->
   <a href="https://github.com/SSLRI">
